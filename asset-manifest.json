@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ritik-sri/attendance-calculator/static/css/main.c28116cc.css",
+    "main.js": "/ritik-sri/attendance-calculator/static/js/main.368cc073.js",
+    "static/js/787.b3a8cc4c.chunk.js": "/ritik-sri/attendance-calculator/static/js/787.b3a8cc4c.chunk.js",
+    "static/media/alexey-elfimov-1s__ad1vHXk-unsplash.jpg": "/ritik-sri/attendance-calculator/static/media/alexey-elfimov-1s__ad1vHXk-unsplash.2f10e8711a55e8efd148.jpg",
+    "index.html": "/ritik-sri/attendance-calculator/index.html",
+    "main.c28116cc.css.map": "/ritik-sri/attendance-calculator/static/css/main.c28116cc.css.map",
+    "main.368cc073.js.map": "/ritik-sri/attendance-calculator/static/js/main.368cc073.js.map",
+    "787.b3a8cc4c.chunk.js.map": "/ritik-sri/attendance-calculator/static/js/787.b3a8cc4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c28116cc.css",
+    "static/js/main.368cc073.js"
+  ]
+}
